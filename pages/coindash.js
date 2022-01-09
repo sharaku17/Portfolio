@@ -141,7 +141,7 @@ const coindash = () => {
               initial={{ translateY: "100px", opacity: 0 }}
               animate={{ translateY: "0px", opacity: 1 }}
               transition={{ duration: 0.8, delay: 1 }}
-              href="https://github.com/"
+              href="https://github.com/sharaku17/coin-dash"
               className="thisisatest mt-12 md:mt-0 h-64 md:h-5/6  col-span-3 md:col-span-2 bg-cover bg-center  md:ml-16 "
               onClick={setCursorDefault}
               onMouseEnter={setCursorCaseStudy}
